@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/InfinityBladeGrassLands/Environments/Plains/Env_Plains_Statues/Materials/M_Plains_Castle_Demon.uasset
+Content/InfinityBladeGrassLands/Environments/Misc/Exo_Deco02/Materials/M_Villa_Plaster_1.uasset
